@@ -22,7 +22,7 @@
 						</li>
 						<li><a href="#" data-group="category1">Cirugía</a></li>
 						<li><a href="#" data-group="category2">RX</a></li>
-						<li><a href="#" data-group="category3">etc</a></li>
+						<li><a href="#" data-group="category4">Fracturas</a></li>
 					</ul>
 				<!-- Gallery Filters Ends -->
 				<!-- Gallery Starts -->

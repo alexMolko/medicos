@@ -156,14 +156,14 @@
 				<!-- Service Box #1 Starts -->
 					<div class="col-md-3 col-sm-6 col-xs-12">
 						<div class="service-box">
-							<h5 class="text-uppercase text-dark-color">Manejo de Fracturas en General</h5>
+							<h5 class="text-uppercase text-dark-color">Manejo de Fracturas</h5>
 							<p>
-								<img src="images/services/services-img1.jpg" alt="Image" class="img-responsive img-center-xs">
+								<img src="images/services/servicio1.jpg" alt="Image" class="img-responsive img-center-xs">
 							</p>
 							<p>
 								Desde un dedo hasta  una vértebra, tanto en niños como en adultos, ya sea de manera conservadora (yesos y ortesis)  o quirúrgica
 							</p>
-							<a href="#" class="animation"><em>read more...</em></a>
+						
 						</div>
 					</div>
 				<!-- Service Box #1 Ends -->
@@ -172,12 +172,12 @@
 						<div class="service-box">
 							<h5 class="text-uppercase text-dark-color">Lesiones de Mano</h5>
 							<p>
-								<img src="images/services/services-img2.jpg" alt="Image" class="img-responsive img-center-xs">
+								<img src="images/services/servicio2.jpg" alt="Image" class="img-responsive img-center-xs">
 							</p>
 							<p>
 								Manejo quirúrgico de las enfermedades más comunes de la mano: quistes sinoviales, dedo en gatillo, túnel del carpo, enfermedad de Quervain. Etc.
 							</p>
-							<a href="#" class="animation"><em>read more...</em></a>
+							
 						</div>
 					</div>
 				<!-- Service Box #2 Ends -->
@@ -186,12 +186,12 @@
 						<div class="service-box">
 							<h5 class="text-uppercase text-dark-color">Cirugía de Columna</h5>
 							<p>
-								<img src="images/services/services-img3.jpg" alt="Image" class="img-responsive img-center-xs">
+								<img src="images/services/servicio3.jpg" alt="Image" class="img-responsive img-center-xs">
 							</p>
 							<p>
 								Como cirujano de columna certificado, puedo retirar hernias de disco de columna cervical y lumbar, así como operar fracturas y algunas otras afecciones.
 							</p>
-							<a href="#" class="animation"><em>read more...</em></a>
+					
 						</div>
 					</div>
 				<!-- Service Box #3 Ends -->
@@ -200,21 +200,17 @@
 						<div class="service-box">
 							<h5 class="text-uppercase text-dark-color">Lesiones Deportivas</h5>
 							<p>
-								<img src="images/services/services-img4.jpg" alt="Image" class="img-responsive img-center-xs">
+								<img src="images/services/servicio4.jpg" alt="Image" class="img-responsive img-center-xs">
 							</p>
 							<p>
 								Manejo todo tipo de afecciones músculo esqueléticas causadas por el ejercicio: tendinitis, desgarros musculares, síndrome del manguito tirador, etc.
 							</p>
-							<a href="#" class="animation"><em>read more...</em></a>
+							
 						</div>
 					</div>
 				<!-- Service Box #4 Ends -->
 				</div>
 			<!-- Services List Ends -->
-				<br>
-				<p class="text-center">
-					<a href="#" class="btn btn-secondary animation">Encuentra más</a>
-				</p>
 			</div>
 		<!-- Nested Container Ends -->
 		</section>
@@ -241,21 +237,6 @@
 						</blockquote>
 					</div>
 				<!-- Testimonail #1 Ends -->
-				<!-- Testimonail #2 Starts -->
-					<div class="testimonail-box">
-						<h5><em>AMCICO</em></h5>
-						<p><small>- 23 June, 2016</small></p>
-						<p>
-							<img src="images/testimonails/amcico.png" alt="Image" class="img-center img-responsive circle">
-						</p>
-						<blockquote>
-							<p>
-							La Asociación Mexicana de Cirujanos de Columna está destinada a la difusión de últimas investigaciones y tratamientos de columna vertebral
-							</p><a href="http://amcico.org.mx/dirHgo.aspx" target="_blank" >Encuéntrame aquí</a>
-						</blockquote>
-					</div>
-				<!-- Testimonail #2 Ends -->
-				<!-- Testimonail #3 Starts -->
 					<div class="testimonail-box">
 						<h5><em>Agenda Hidalguense</em></h5>
 						<p><small>- 09 Abril, 2017</small></p>
@@ -267,7 +248,48 @@
 								Ángel Cano Rodríguez, médico ortopedista y especialista en columna vertebral llevó a cabo una operación de hernia de disco de un cuadragenario, la cual anteriormente sólo se realizaba en hospitales de tercer nivel.
 							</p><a href="https://agendahidalguense.com/2017/04/09/imss-hidalgo-realizo-exitosa-operacion-de-hernia-de-disco/" target="_blank" >Leer Reseña</a>
 						</blockquote>
+					</div>				
+				<!-- Testimonail #2 Starts -->
+					<div class="testimonail-box">
+						<h5><em>AMCICO</em></h5>
+						<p><small>- 23 Junio, 2016</small></p>
+						<p>
+							<img src="images/testimonails/amcico.png" alt="Image" class="img-center img-responsive circle">
+						</p>
+						<blockquote>
+							<p>
+							La Asociación Mexicana de Cirujanos de Columna está destinada a la difusión de últimas investigaciones y tratamientos de columna vertebral
+							</p><a href="http://amcico.org.mx/dirHgo.aspx" target="_blank" >Encuéntrame aquí</a>
+						</blockquote>
 					</div>
+				<!-- Testimonail #2 Ends -->
+				<!-- Testimonail #3 Starts -->
+
+						<div class="testimonail-box">
+						<h5><em>Agenda Hidalguense</em></h5>
+						<p><small>- 26 Abril, 2017</small></p>
+						<p>
+							<img src="images/testimonails/hidalgo.png" alt="Image" class="img-center img-responsive circle">
+						</p>
+						<blockquote>
+							<p>
+								Bajo el mando de los especialistas, el médico neurocirujano Pablo Pacheco Hernández, junto al ortopedista y especialista en columna vertebral, Ángel Cano Rodriguez, la operación duró 16 horas, abarcando dos turnos del equipo médico.
+							</p></p><a href="https://agendahidalguense.com/2017/04/26/operacion-exitosa-de-tumor-ependimoma-en-el-imss-hidalgo/" target="_blank" >Leer Reseña</a>
+						</blockquote>
+					</div>
+
+						<div class="testimonail-box">
+						<h5><em>Agenda Hidalguense</em></h5>
+						<p><small>- 26 Abril, 2017</small></p>
+						<p>
+							<img src="images/testimonails/hidalgo.png" alt="Image" class="img-center img-responsive circle">
+						</p>
+						<blockquote>
+							<p>
+							El Instituto Mexicano del Seguro Social salvaron exitosamente las dos manos de un joven de 29 años, quien estuvo a punto de perderlas cuando llegó a la unidad médica, debido a cortes profundos que presentaba en consecuencia de una pelea callejera.
+							</p></p><a href="https://agendahidalguense.com/2018/03/27/especialistas-del-imss-reimplantan-manos-a-joven-de-29-anos/" target="_blank" >Leer Reseña</a>
+						</blockquote>
+					</div>					
 				</div>
 			<!-- Testimonail Carousel Ends -->
 			</div>
@@ -298,7 +320,7 @@
 				<h3 class="text-dark-color text-center">Agendar una cita</h3>
 				<p class="text-grey-color text-center">Es fácil y rápido</p>
 			<!-- Form Starts -->
-				<form action="#" class="appointment-form">
+				<form action="<?= base_url();?>/Inicio/AgendarCita" method="post" class="appointment-form">
 				<!-- Nested Row Starts -->
 					<div class="row">
 					<!-- Name Field Starts -->
@@ -367,7 +389,7 @@
 					<li class="col-sm-4 col-xs-12">
 						<h5>Horario de Consulta</h5>
 						<p>
-							7 días de la semana  de 9:00 am a 5:00 pm <br>
+							Horario variable <br>
 						</p>
 					</li>
 					<li class="col-sm-4 col-xs-12">
