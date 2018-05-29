@@ -4,7 +4,7 @@
 		<footer class="main-footer">
 		<!-- Nested Container Starts -->
 			<div class="container text-center text-lite-color">
-				<ul class="list-unstyled list-inline foot-sm-links">
+				<!--ul class="list-unstyled list-inline foot-sm-links">
 					<li><a href="#"><i class="fa fa-facebook-square"></i></a></li>
 					<li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
 					<li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
@@ -12,7 +12,7 @@
 					<li><a href="#"><i class="fa fa-pinterest-square"></i></a></li>
 					<li><a href="#"><i class="fa fa-instagram"></i></a></li>
 					<li><a href="#"><i class="fa fa-flickr"></i></a></li>
-				</ul>
+				</ul-->
 				&copy; 2018 DrAngelCano, Designed By <a href=#">Nowosc México</a>
 			</div>
 		<!-- Nested Container Ends -->

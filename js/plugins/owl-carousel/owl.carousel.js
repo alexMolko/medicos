@@ -309,7 +309,7 @@ if (typeof Object.create !== "function") {
             base.$owlItems.each(function (index) {
                 var $this = $(this);
                 $this
-                    .css({"width": base.itemWidth})
+                    .css({"width": base.itemWidth,"padding":"10px"})
                     .data("owl-item", Number(index));
 
                 if (index % base.options.items === 0 || index === lastItem) {
@@ -342,7 +342,7 @@ if (typeof Object.create !== "function") {
 
         calculateWidth : function () {
             var base = this;
-            base.itemWidth = Math.round(base.$elem.width() / base.options.items);
+            base.itemWidth = Math.round(base.$elem.width() / base.options.items)+20;
         },
 
         max : function () {

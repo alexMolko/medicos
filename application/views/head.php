@@ -4,13 +4,14 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="">
-		<meta name="author" content="">
+		<meta name="description" content="Doctor Angel Cano - Especialidad en Traumatología y Ortopedia">
+		<meta name="author" content="Nowosc Mexico">
 
 		<title>Clínica - Dr. Ángel Cano Rodríguez</title>
 
 		<!-- Bootstrap -->
 		<link href="<?php echo base_url();?>css/bootstrap.min.css" rel="stylesheet">
+            <link rel="icon" href="<?php echo base_url();?>images/docicon.png">
 
 		<!-- Google Web Fonts -->
 		

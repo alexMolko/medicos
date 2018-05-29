@@ -15,7 +15,7 @@
 			<!-- Navbar Collapse Starts -->
 				<div class="navbar-collapse collapse">
 					<ul class="nav navbar-nav text-uppercase">
-						<li class="current"><a href="#main-header">Home</a></li>
+                                            <li class="current"><a href="#main-header"><img src="<?php echo base_url()?>images/docicon.png" style="width: 50px; height: 50px;"></a></li>
 						<li><a href="#intro">Dr. Ángel Cano</a></li>
 						<li><a href="#why-us">Beneficios </a></li>
 						<li><a href="#services">Servicios</a></li>
@@ -44,7 +44,7 @@
 			<div class="carousel-inner text-lite-color" role="listbox">
 			<!-- Slide #1 Starts -->
 				<div class="item active">
-					<img src="images/slider/Slider.jpg" alt="Image" class="img-responsive">
+					<img src="images/slider/sliderN.png" alt="Image" class="img-responsive">
 					<div class="carousel-caption">
 						
 					</div>
@@ -52,14 +52,14 @@
 			<!-- Slide #1 Ends -->
 			<!-- Slide #2 Starts -->
 				<div class="item">
-					<img src="images/slider/Slider-2.jpg" alt="Image" class="img-responsive">
+					<img src="images/slider/sliderN2.png" alt="Image" class="img-responsive">
 					<div class="carousel-caption">
 					</div>
 				</div>
 			<!-- Slide #2 Ends -->
 			<!-- Slide #3 Starts -->
 				<div class="item">
-					<img src="images/slider/Slider-3.jpg" alt="Image" class="img-responsive">
+					<img src="images/slider/sliderN3.png" alt="Image" class="img-responsive">
 					<div class="carousel-caption">
 					</div>
 				</div>
@@ -67,6 +67,12 @@
 			</div>
 		<!-- Wrapper for Slides Ends -->
 		</div>
+        <div class="row">
+            <div class="col-md-12 col-xs-12" style="background-color: #3496dc;">
+                <br>
+                <br>
+            </div>
+        </div>
 	<!-- Slider Ends -->
 	<!-- Intro Section Starts -->
 		<section id="intro" class="intro-section parallax">
@@ -116,7 +122,7 @@
 						<i class="fa fa-book circle animation"></i>
 						<h4>Fácil contacto</h4>
 						<p>
-							Haz una cita llamando directamente al número de contacto o desde la página web y pronto me pondré en contacto contigo.. Puedo atenderle en cualquiera de mis 2 consultorios: Pachuca y Ecatepec. 
+							Haz una cita llamando directamente al número de contacto o desde la página web y pronto me pondré en contacto contigo. Puedo atenderle en cualquiera de mis consultorios: Pachuca y Ecatepec. 
 						</p>
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12">
@@ -130,7 +136,7 @@
 						<i class="fa fa-star circle animation"></i>
 						<h4>Alto reconocimiento</h4>
 						<p>
-						<a href="http://amcico.org.mx/dirHgo.aspx">Hoy en día, es súmamente importante que confíes tu salud a un profesional certificado. Mira mis referencias</a>
+						Hoy en día, es súmamente importante que confíes tu salud a un profesional certificado. Mira mis referencias aquí abajo.
 						</p>
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12">
@@ -150,7 +156,7 @@
 		<!-- Nested Container Starts -->
 			<div class="container">
 				<h3 class="text-dark-color text-center">Mis servicios</h3>
-				<p class="text-grey-color text-center">General y Especializado</p>
+				<p class="text-grey-color text-center">General y especializado</p>
 			<!-- Services List Starts -->
 				<div class="row text-center-xs">
 				<!-- Service Box #1 Starts -->
@@ -226,15 +232,13 @@
 				<!-- Testimonail #1 Starts -->
 					<div class="testimonail-box">
 						<h5><em>Colegio Mexicano de Ortopedia y Traumatología</em></h5>
-						<p><small>- 23 June, 2016</small></p>
+						<p><small>- 23 Junio, 2016</small></p>
 						<p>
 							<img src="images/testimonails/cmo.png" alt="Image" class="img-center img-responsive circle">
 						</p>
-						<blockquote>
 							<p>
 							La sección Buscando Médico le ayudará a localizar médicos ortopedistas en el interior de república.
 							</p><a href="http://www.smo.edu.mx/servicios/index.php" target="_blank" >Encuéntrame aquí</a>
-						</blockquote>
 					</div>
 				<!-- Testimonail #1 Ends -->
 					<div class="testimonail-box">
@@ -243,11 +247,9 @@
 						<p>
 							<img src="images/testimonails/hidalgo.png" alt="Image" class="img-center img-responsive circle">
 						</p>
-						<blockquote>
 							<p>
 								Ángel Cano Rodríguez, médico ortopedista y especialista en columna vertebral llevó a cabo una operación de hernia de disco de un cuadragenario, la cual anteriormente sólo se realizaba en hospitales de tercer nivel.
 							</p><a href="https://agendahidalguense.com/2017/04/09/imss-hidalgo-realizo-exitosa-operacion-de-hernia-de-disco/" target="_blank" >Leer Reseña</a>
-						</blockquote>
 					</div>				
 				<!-- Testimonail #2 Starts -->
 					<div class="testimonail-box">
@@ -256,11 +258,9 @@
 						<p>
 							<img src="images/testimonails/amcico.png" alt="Image" class="img-center img-responsive circle">
 						</p>
-						<blockquote>
 							<p>
 							La Asociación Mexicana de Cirujanos de Columna está destinada a la difusión de últimas investigaciones y tratamientos de columna vertebral
 							</p><a href="http://amcico.org.mx/dirHgo.aspx" target="_blank" >Encuéntrame aquí</a>
-						</blockquote>
 					</div>
 				<!-- Testimonail #2 Ends -->
 				<!-- Testimonail #3 Starts -->
@@ -271,11 +271,9 @@
 						<p>
 							<img src="images/testimonails/hidalgo.png" alt="Image" class="img-center img-responsive circle">
 						</p>
-						<blockquote>
 							<p>
 								Bajo el mando de los especialistas, el médico neurocirujano Pablo Pacheco Hernández, junto al ortopedista y especialista en columna vertebral, Ángel Cano Rodriguez, la operación duró 16 horas, abarcando dos turnos del equipo médico.
 							</p></p><a href="https://agendahidalguense.com/2017/04/26/operacion-exitosa-de-tumor-ependimoma-en-el-imss-hidalgo/" target="_blank" >Leer Reseña</a>
-						</blockquote>
 					</div>
 
 						<div class="testimonail-box">
@@ -284,11 +282,9 @@
 						<p>
 							<img src="images/testimonails/hidalgo.png" alt="Image" class="img-center img-responsive circle">
 						</p>
-						<blockquote>
 							<p>
 							El Instituto Mexicano del Seguro Social salvaron exitosamente las dos manos de un joven de 29 años, quien estuvo a punto de perderlas cuando llegó a la unidad médica, debido a cortes profundos que presentaba en consecuencia de una pelea callejera.
 							</p></p><a href="https://agendahidalguense.com/2018/03/27/especialistas-del-imss-reimplantan-manos-a-joven-de-29-anos/" target="_blank" >Leer Reseña</a>
-						</blockquote>
 					</div>					
 				</div>
 			<!-- Testimonail Carousel Ends -->
@@ -383,13 +379,13 @@
 						<h5>Dirección</h5>
 						<p>
 							Dr. José María Bandera No. 407 Col. Doctores   <br>
-							Pachuca,Hidalgo
+							Pachuca, Hidalgo
 						</p>
 					</li>
 					<li class="col-sm-4 col-xs-12">
 						<h5>Horario de Consulta</h5>
 						<p>
-							Horario variable <br>
+							Disponibilidad de horario. <br>
 						</p>
 					</li>
 					<li class="col-sm-4 col-xs-12">
@@ -405,4 +401,4 @@
 		</section>
 	<!-- Contact Section Ends -->
 	<!-- Map Starts -->
-		<div class="map"></div>	
+		<!--div class="map"></div-->	
